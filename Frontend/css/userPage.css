@@ -1,0 +1,188 @@
+body{
+	background-color:#F5F8FA;
+	outline:0px solid #000000;
+	margin:0px;
+}
+
+p{
+	margin:0px;
+}
+
+#wrapper{
+	outline:0px solid #C5161D	
+}
+
+#headSite{
+	outline:0px solid #00FF00
+}
+
+#header{
+	outline:0px solid #000000;	
+	background-color:#FFFFFF;
+	height:45px;
+}
+
+#headerNav{
+	
+}
+
+#headerNav ul{
+	margin:0px;
+	padding:10px 0 0 65px;
+}
+
+#headerNav ul li{
+	display:inline;
+	padding-right:10px;
+}
+
+#headerNav a{
+	text-decoration:none;
+	color:#66757F;
+	font-family:"MS Sans Serif";
+	font-size:14px;
+}
+
+#headerImage{
+	height:174px;   /*высота может поменяться*/
+	outline:0px solid #000000;
+	background-color:#9266CC;
+	border:1px solid #7C56AD;
+	border-top:1px solid #6A4993;
+	
+}
+
+#topbar{
+	height:58px;
+	background-color:#FFFFFF;
+	border-bottom:1px solid #E1E8ED;
+}
+
+#topbarNav ul{
+	margin:0px;
+	padding:17px 0 0 380px;
+}
+
+#topbarNav ul li{
+	display:inline;
+	padding-right:10px;
+}
+
+#topbarNav a{
+	text-decoration:none;
+	color:#66757F;
+	font-family:"MS Sans Serif";
+	font-size:14px;
+	text-transform:uppercase;
+}
+
+#bodySite{
+	width:1180px;
+	outline:0px solid #000000;
+	margin:10px auto;
+}
+
+#userInf{
+	height:437px;
+	width:282px;
+	outline:0px solid #000000;
+	float: left;
+}
+
+#image{
+	position:relative;
+}
+
+#batko{
+	position:absolute;
+	top:-193px;
+	left:0px
+}
+
+#userIn{
+	padding-top:20px;
+}
+
+.infName{
+	color:#292F33;
+	font-family:"MS Sans Serif";
+	font-size:22px;
+}
+
+.infNick{
+	color:#A399AD;
+	font-family:"MS Sans Serif";
+	font-size:14px;
+}
+
+#sidebarR{
+	float:right;
+}
+
+#sidebarR1{
+	height:270px;
+	width:290px;
+	outline:0px solid #000000;
+	border:1px solid #E1E8ED;
+	background-color:#FFFFFF;
+	margin-bottom:10px;
+}
+
+#contR1{
+	padding:10px;
+}
+
+#sidebarR2{
+	height:405px;
+	width:290px;
+	outline:0px solid #000000;
+	border:1px solid #E1E8ED;
+	background-color:#FFFFFF;
+}
+
+#contR2{
+	padding:10px;
+}
+
+#content{
+	width:589px;
+	outline:0px solid #000000;
+	margin:0 0 0 292px;
+}
+
+#headCont{
+	height:43px;
+	outline:0px solid #000000;
+	border:1px solid #E1E8ED;
+	background-color:#FFFFFF;
+}
+
+#headNav{
+	
+}
+
+#contNav ul{
+	margin:0px;
+	padding:10px 0 0 10px;
+}
+
+#contNav ul li{
+	display:inline;
+	padding-right:20px;
+}
+
+#contNav a{
+	text-decoration:none;
+	color:#9266CC;
+	font-family:"MS Sans Serif";
+	font-size:16px;
+}
+
+#Cont{
+	height:3000px;
+	border-left:1px solid #E1E8ED;
+	border-right:1px solid #E1E8ED;
+	border-bottom:1px solid #E1E8ED;
+	background-color:#FFFFFF;
+	padding:15px;
+}
