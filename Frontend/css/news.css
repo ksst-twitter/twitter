@@ -101,11 +101,6 @@ p{
 
 #userstats table tr td{
 	padding-left: 10px;
-	text-transform: uppercase;	
-}
-
-#userstats table tr td p{
-	text-transform: uppercase;	
 }
 
 .infName{
@@ -118,6 +113,45 @@ p{
 	color:#A399AD;
 	font-family:"MS Sans Serif";
 	font-size:14px;
+}
+
+.infText{
+	color:#A399AD;
+	font-family:"MS Sans Serif";
+	font-size:14px;
+}
+
+.infCount{
+	color:rgb(0, 132, 180);
+	font-family:"MS Sans Serif";
+	font-size:18px;
+}
+
+#Trends{
+	width:290px;
+	margin:16px;
+}
+
+#Trends ul{
+	padding-left: 0px;
+}
+
+#Trends ul li{
+	list-style-type: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.trtitle{
+	color:rgb(0, 132, 180);
+	font-family:"Arial";
+	font-size:13px;
+}
+
+.trcount{
+	color:rgb(136, 153, 166);
+	font-family:"Arial";
+	font-size:13px;
 }
 
 #sidebarR{
