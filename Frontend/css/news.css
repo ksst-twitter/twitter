@@ -1,0 +1,193 @@
+body{
+	background-color:#F5F8FA;
+	outline:0px solid #000000;
+	margin:0px;
+}
+
+p{
+	margin:0px;
+}
+
+#wrapper{
+	outline:0px solid #C5161D	
+}
+
+#headSite{
+	outline:0px solid #00FF00
+}
+
+#header{
+	outline:0px solid #000000;	
+	background-color:#FFFFFF;
+	height:45px;
+}
+
+#headerNav{
+	
+}
+
+#headerNav ul{
+	margin:0px;
+	padding:10px 0 0 65px;
+}
+
+#headerNav ul li{
+	display:inline;
+	padding-right:10px;
+}
+
+#headerNav a{
+	text-decoration:none;
+	color:#66757F;
+	font-family:"MS Sans Serif";
+	font-size:14px;
+}
+
+#bodySite{
+	width:1180px;
+	outline:0px solid #000000;
+	margin:10px auto;
+}
+
+#sidebarL{
+	height:437px;
+	width:282px;
+	outline:0px solid #000000;
+	float: left;
+}
+
+#Profilecard{
+	height:192px;
+	width:290px;
+}
+
+#Profilebg{
+	height:96px;
+	width:290px;
+	background-color: #9266CC;
+}
+
+#Profileinfo{
+	width:288px;
+	height:95px;
+}
+
+#image{
+	position:relative;
+	width:72px;
+	height:44px;
+}
+
+#batko{
+	position:relative;
+	top:-30px;
+	left:0px
+}
+
+#userIn{
+	position:relative;
+	top:-38px;
+	left:90px;
+	width:185px;
+	height:38px;
+}
+
+#userStats{
+	width:277px;
+	height:51px;
+	position:relative;
+	top:-38px;
+}
+
+#userstats table tr td{
+	padding-left: 10px;
+	text-transform: uppercase;	
+}
+
+#userstats table tr td p{
+	text-transform: uppercase;	
+}
+
+.infName{
+	color:#292F33;
+	font-family:"MS Sans Serif";
+	font-size:22px;
+}
+
+.infNick{
+	color:#A399AD;
+	font-family:"MS Sans Serif";
+	font-size:14px;
+}
+
+#sidebarR{
+	float:right;
+}
+
+#sidebarR1{
+	height:270px;
+	width:290px;
+	outline:0px solid #000000;
+	border:1px solid #E1E8ED;
+	background-color:#FFFFFF;
+	margin-bottom:10px;
+}
+
+#contR1{
+	padding:10px;
+}
+
+#sidebarR2{
+	height:405px;
+	width:290px;
+	outline:0px solid #000000;
+	border:1px solid #E1E8ED;
+	background-color:#FFFFFF;
+}
+
+#contR2{
+	padding:10px;
+}
+
+#content{
+	width:589px;
+	outline:0px solid #000000;
+	margin:0 0 0 292px;
+}
+
+#headCont{
+	height:43px;
+	outline:0px solid #000000;
+	border:1px solid #E1E8ED;
+	background-color:#FFFFFF;
+}
+
+#headNav{
+	
+}
+
+#contNav ul{
+	margin:0px;
+	padding:10px 0 0 10px;
+}
+
+#contNav ul li{
+	display:inline;
+	padding-right:20px;
+}
+
+#contNav a{
+	text-decoration:none;
+	color:#9266CC;
+	font-family:"MS Sans Serif";
+	font-size:16px;
+}
+
+#Cont{
+	height:3000px;
+	border-left:1px solid #E1E8ED;
+	border-right:1px solid #E1E8ED;
+	border-bottom:1px solid #E1E8ED;
+	background-color:#FFFFFF;
+	padding:15px;
+}
