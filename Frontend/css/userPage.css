@@ -56,11 +56,13 @@ p{
 	height:58px;
 	background-color:#FFFFFF;
 	border-bottom:1px solid #E1E8ED;
+	width:1180px;
+	margin:10px auto;
 }
 
 #topbarNav ul{
 	margin:0px;
-	padding:17px 0 0 380px;
+	padding:17px 0 0 292px;
 }
 
 #topbarNav ul li{
