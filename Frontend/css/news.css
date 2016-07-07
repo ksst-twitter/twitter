@@ -68,8 +68,11 @@ p{
 }
 
 #Profileinfo{
+	outline:0px solid #000000;
+	border:1px solid #E1E8ED;
 	width:288px;
 	height:95px;
+	background-color:#FFFFFF;
 }
 
 #image{
@@ -128,12 +131,15 @@ p{
 }
 
 #Trends{
-	width:290px;
-	margin:16px;
+	width:288px;
+	margin-top:16px;
+	outline:0px solid #000000;
+	border:1px solid #E1E8ED;
+	background-color:#FFFFFF;
 }
 
 #Trends ul{
-	padding-left: 0px;
+	padding-left: 10px;
 }
 
 #Trends ul li{
@@ -158,8 +164,7 @@ p{
 	float:right;
 }
 
-#sidebarR1{
-	height:270px;
+#read{
 	width:290px;
 	outline:0px solid #000000;
 	border:1px solid #E1E8ED;
@@ -167,20 +172,34 @@ p{
 	margin-bottom:10px;
 }
 
-#contR1{
-	padding:10px;
+#read ul{
+	padding-left: 10px;
 }
 
-#sidebarR2{
-	height:405px;
+#read ul li{
+	list-style-type: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	height: 50px;
+}
+
+.fullname{
+	color: rgb(41,47,51);
+	font-size: 13px;
+	font-family: Arial;
+}
+
+.nickname{
+	color: rgb(136,153,166);
+	font-size: 13px;
+	font-family: Arial;
+}
+
+#copyright{
 	width:290px;
 	outline:0px solid #000000;
 	border:1px solid #E1E8ED;
 	background-color:#FFFFFF;
-}
-
-#contR2{
-	padding:10px;
 }
 
 #content{
@@ -200,15 +219,71 @@ p{
 	
 }
 
-#tweet {
-	margin: 10px 0px 0px 10px;
+.readname{
+	position: relative;
+	left: 50px;
+	top: -55px;
+}
+
+.readbtn{
+	position: relative;
+	left: 50px;
+	top: -55px;
+}
+
+.read{
+	height: 30px;
+	width: 90px;
+}
+
+.title{
+	margin: 10px 0px 10px 10px;
+}
+
+.tweetname{
+	position: relative;
+	left: 50px;
+	top: -55px;
+	margin-right: 75px;
+}
+
+.tweetfullname{
+	color: rgb(41,47,51);
+	font-size: 13px;
+	font-family: Arial;
+}
+
+.tweetnickname{
+	color: rgb(136,153,166);
+	font-size: 13px;
+	font-family: Arial;
+}
+
+.tweettext{
+	color: rgb(41,47,51);
+	font-size: 14px;
+	font-family: Arial;
+	position: relative;
+	top: -50px;
+	left: 50px;
+	margin-right: 75px;
+}
+
+.tweet{
+
 }
 
 #Cont{
-	height:3000px;
-	border-left:1px solid #E1E8ED;
-	border-right:1px solid #E1E8ED;
-	border-bottom:1px solid #E1E8ED;
+	margin-top: 10px;
+	border:1px solid #E1E8ED;
 	background-color:#FFFFFF;
-	padding:15px;
+}
+
+#Cont ul{
+	padding-left: 10px;
+}
+
+#Cont ul li{
+	list-style-type: none;
+	margin-bottom: -40px;
 }
